@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/own_knowledge_notebook/static/css/main.5a94194e.css",
+    "main.js": "/own_knowledge_notebook/static/js/main.a70c9b22.js",
+    "static/js/787.45318cc8.chunk.js": "/own_knowledge_notebook/static/js/787.45318cc8.chunk.js",
+    "static/media/cat-bath.gif": "/own_knowledge_notebook/static/media/cat-bath.51ec61026a163d476e0b.gif",
+    "static/media/mario_gaming.gif": "/own_knowledge_notebook/static/media/mario_gaming.db67e19ebce7c780506b.gif",
+    "static/media/1.gif": "/own_knowledge_notebook/static/media/1.a75465b8a6e961e1ccf7.gif",
+    "static/media/purple_card_texture.png": "/own_knowledge_notebook/static/media/purple_card_texture.f991ba8a43beb6c79a87.png",
+    "static/media/gosling_the_goose.gif": "/own_knowledge_notebook/static/media/gosling_the_goose.e648541ada0c36de2342.gif",
+    "static/media/fire_energy.png": "/own_knowledge_notebook/static/media/fire_energy.83c5747408315bd72a40.png",
+    "static/media/water_energy.png": "/own_knowledge_notebook/static/media/water_energy.0f24422dc0148aee5817.png",
+    "static/media/Minecraftia-Regular.ttf": "/own_knowledge_notebook/static/media/Minecraftia-Regular.69fd3db14fbc8b3f7cdb.ttf",
+    "static/media/water__card_texture.jpg": "/own_knowledge_notebook/static/media/water__card_texture.54f95f0c1273f7893569.jpg",
+    "static/media/steel_card_texture.jpg": "/own_knowledge_notebook/static/media/steel_card_texture.87ae4e4ac311eb8eeabd.jpg",
+    "static/media/right_arrow2.gif": "/own_knowledge_notebook/static/media/right_arrow2.7ebe24e2bdfd333663a0.gif",
+    "static/media/flying_energy.png": "/own_knowledge_notebook/static/media/flying_energy.7de276f3b39505ed0264.png",
+    "static/media/fight_type.png": "/own_knowledge_notebook/static/media/fight_type.c777e8eca24e7201e4bf.png",
+    "index.html": "/own_knowledge_notebook/index.html",
+    "main.5a94194e.css.map": "/own_knowledge_notebook/static/css/main.5a94194e.css.map",
+    "main.a70c9b22.js.map": "/own_knowledge_notebook/static/js/main.a70c9b22.js.map",
+    "787.45318cc8.chunk.js.map": "/own_knowledge_notebook/static/js/787.45318cc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a94194e.css",
+    "static/js/main.a70c9b22.js"
+  ]
+}
