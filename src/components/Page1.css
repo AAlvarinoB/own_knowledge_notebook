@@ -1,0 +1,110 @@
+*{
+    font-family: "minecraft-font", sans-serif;
+}
+
+.page-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.page-background {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/water__card_texture.jpg'); /* Cambia 'ruta-de-tu-imagen-de-fondo.jpg' por la ruta de tu imagen de fondo */
+
+}
+
+.page2-background {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/steel_card_texture.jpg'); /* Cambia 'ruta-de-tu-imagen-de-fondo.jpg' por la ruta de tu imagen de fondo */
+}
+
+.page3-background {
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/purple_card_texture.png'); /* Cambia 'ruta-de-tu-imagen-de-fondo.jpg' por la ruta de tu imagen de fondo */
+}
+
+.page-top-name {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: 20px;
+}
+
+.page3-top-name {
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.page-top-box {
+    display: flex;
+    margin-top: -10px;
+    width: 90%;
+    height: 40%;
+    border: 4px solid gold;
+    margin-left: 20px;
+}
+
+.top-box-image-background {
+    width: 100%;
+    height: 100%;
+    background-color: aliceblue;
+}
+
+.top-box-image {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.mid-text-box {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 5px;
+    margin-left: 19px;
+    width: 90%;
+    height: 20px;
+    border: 3px solid darkgoldenrod;
+    background: linear-gradient(to bottom right, #ffd700, #e5b800);
+}
+
+.page-content {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 0.3s ease-in-out; /* Agrega una transición de opacidad */
+    opacity: 1; /* Establece la opacidad inicial */
+}
+
+.page-content.hidden {
+    opacity: 0; /* Cambia la opacidad cuando se oculta */
+}
+
+.bottom-text-box {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    line-height: 1.2;
+    display: flex;
+    text-align: justify;
+}
+
+.stats-text-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+    line-height: 1.2;
+}
