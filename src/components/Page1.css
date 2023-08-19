@@ -32,6 +32,42 @@
     background-image: url('../img/purple_card_texture.png'); /* Cambia 'ruta-de-tu-imagen-de-fondo.jpg' por la ruta de tu imagen de fondo */
 }
 
+.page4-background {
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/golden_card_texture.jpg'); /* Cambia 'ruta-de-tu-imagen-de-fondo.jpg' por la ruta de tu imagen de fondo */
+}
+
+.page5-background {
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/ghost_card_texture.png'); /* Cambia 'ruta-de-tu-imagen-de-fondo.jpg' por la ruta de tu imagen de fondo */
+}
+
+.page6-background {
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/grass_card_texture.png'); /* Cambia 'ruta-de-tu-imagen-de-fondo.jpg' por la ruta de tu imagen de fondo */
+}
+
+.page7-background {
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/dream_card_texture.png'); /* Cambia 'ruta-de-tu-imagen-de-fondo.jpg' por la ruta de tu imagen de fondo */
+}
+
 .page-top-name {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -43,6 +79,17 @@
     grid-template-columns: 1fr 1fr;
     font-size: 20px;
     margin-bottom: 10px;
+}
+
+.page7-top-name {
+    display: flex;
+    font-size: 25px;
+}
+
+.page-top-container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
 }
 
 .page-top-box {

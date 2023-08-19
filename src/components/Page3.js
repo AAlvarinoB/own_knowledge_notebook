@@ -1,7 +1,6 @@
 import React from 'react';
 import '../App.css';
 import './Page1.css';
-import Fight_Type from '../img/fight_type.png';
 import mario_gaming from '../img/mario_gaming.gif';
 const Page3 = () => {
     return (

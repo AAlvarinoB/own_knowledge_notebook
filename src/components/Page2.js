@@ -48,7 +48,7 @@ const Page2 = () => {
                     </div>
                 </div>
                 <hr style={{marginTop: '5px'}}/>
-                <div style={{fontsize: "12px"}}>
+                <div style={{fontsize: "12px", lineHeight: "1.5"}}>
                     Gosling utiliza <span style={{fontWeight: "bold"}}>danza aleteo</span>...
                     Es super efectivo!
                 </div>

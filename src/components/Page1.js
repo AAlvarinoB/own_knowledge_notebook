@@ -16,8 +16,8 @@ const Page1 = () => {
                     </div>
                 </div>
                 <div className="page-top-box">
-                    <div className="top-box-image-background">
-                        <div className="top-box-image">
+                    <div className="top-box-image-background" style={{backgroundColor: "#f9ddc4"}}>
+                        <div className="top-box-image" >
                             <img src={cat_bath} alt="catbath" style={{width: '133px', opacity: "1"}}/>
                         </div>
                     </div>
